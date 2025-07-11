@@ -1,0 +1,17 @@
+# Installation Steps for SASS
+
+1. Cloned the repository and created directory:
+   $ mkdir 0x03-sass_scss
+   $ cd 0x03-sass_scss
+
+2. Installed NVM (Node Version Manager):
+   $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+3. Closed and reopened the terminal.
+
+4. Installed Node.js version 20.16.0:
+   $ nvm install 20.16.0
+   $ nvm use 20.16.0
+
+5. Installed the latest version of SASS using npm:
+   $ npm install sass
